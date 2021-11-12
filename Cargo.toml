@@ -6,6 +6,6 @@ edition = "2021"
 [features]
 
 [dependencies]
-enigo = "0.0.14"
+autopilot = "0.4.0"
 rdev = "0.5.1"
-toml = "0.5.8"
+
